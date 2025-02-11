@@ -81,6 +81,7 @@ Me chamo Carlos Rocha, tenho 22 anos e sou natural da Bahia. Atualmente, estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
 <br/>
 <br/>
 
