@@ -3,18 +3,20 @@
 **`Data Science | Data Analyst`**
 
 - 👨🏽‍🎓 Cursando Engenharia de Software (Anhanguera 5º Semestre)
+<a href="https://www.linkedin.com/in/carlos-rocha-b7b09524b/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-carlos%20rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:devcarlosrocha23@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/badge/Gmail-devcarlosrocha23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
+</a>
 
-## Contatos 
-
-<p align="left">
-  <a href="mailto:devcarlosrocha23@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-rocha-b7b09524b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>
-</p>
+<br>
 
 ### 🤖 Linguagens/Bibliotecas/Ferramentas
 
