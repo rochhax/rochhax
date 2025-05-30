@@ -1,29 +1,22 @@
-# 👩🏻‍💻 Carlos Rocha
+# 👨🏻‍💻 Carlos Rocha
 
-**`Data Science`**
+**`Data Science | Data Analyst`**
 
-Me chamo Carlos Rocha, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia de Software.
+- 👨🏽‍🎓 Cursando Engenharia de Software (Anhanguera 5º Semestre)
+
+## Contatos 
 
 <p align="left">
-    <a href="https://github.com/rochhax?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rochhax?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rochhax?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rochhax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="mailto:devcarlosrocha23@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlos-rocha-b7b09524b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens/Bibliotecas/Ferramentas
 
 <img 
     align="left" 
@@ -35,35 +28,28 @@ Me chamo Carlos Rocha, tenho 22 anos e sou natural da Bahia. Atualmente, estou c
 />
 <img 
     align="left" 
-    alt="R" 
-    title="R"
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
-    alt="NumPy" 
-    title="NumPy"
+    alt="Javascript"
+    title="Javascript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="Jupyter" 
+    title="Jupyter"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -73,9 +59,23 @@ Me chamo Carlos Rocha, tenho 22 anos e sou natural da Bahia. Atualmente, estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="Matplotlib"
+    title="Matplotlib" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<br clear="left"/>
 
 ### 📊 Estatísticas
 
@@ -85,14 +85,13 @@ Me chamo Carlos Rocha, tenho 22 anos e sou natural da Bahia. Atualmente, estou c
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rochhax&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rochhax&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=00000000" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochhax&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochhax&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&bg_color=00000000" 
   />
-
 </p>
+<br clear="left"/>
