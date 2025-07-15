@@ -2,7 +2,7 @@
 
 **`Data Science | Data Analyst`**
 
-- 👨🏽‍🎓 Cursando Engenharia de Software (Anhanguera 5º Semestre)
+- 👨🏽‍🎓 Cursando Engenharia de Software (Anhanguera 6º Semestre)
 <a href="https://www.linkedin.com/in/carlos-rocha-b7b09524b/" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/LinkedIn-carlos%20rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
