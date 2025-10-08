@@ -9,9 +9,9 @@
     alt="LinkedIn"
   />
 </a>
-<a href="mailto:devcarlosrocha23@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:carlosrocha0923@gmail.com" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://img.shields.io/badge/Gmail-devcarlosrocha23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    src="https://img.shields.io/badge/Gmail-carlosrocha0923@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Gmail"
   />
 </a>
