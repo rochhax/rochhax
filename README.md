@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Carlos Rocha
 
-**`Data Science | Data Analyst`**
+**`Software Engineer`**
 
 - 👨🏽‍🎓 Cursando Engenharia de Software (Anhanguera 6º Semestre)
 <a href="https://www.linkedin.com/in/carlos-rocha-b7b09524b/" target="_blank" rel="noopener noreferrer">
